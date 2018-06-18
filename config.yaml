@@ -7,7 +7,7 @@ params:
   hero:
     tagline: APD
     subTagline: An adaptation of the gorgeous Fresh landing page starter from CSS Ninja
-    buttonText: Click here
+    buttonText: More info
     image: illustrations/worker.svg
     bottomIcons:
     - logos/clients/systek.svg
@@ -74,7 +74,7 @@ params:
     subTagline: Lorem ipsum sit dolor amet is a dummy text used by typography industry
     buttonText: Get Started
   clients:
-    tagline: Our Clients love us!
+    tagline: Some feedback from our visitors
     subTagline: Lorem ipsum sit dolor amet is a dummy text used by typography industry
     clientExamples:
     - name: Irma Walters
