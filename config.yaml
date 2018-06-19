@@ -6,8 +6,8 @@ theme: apd
 params:
   hero:
     tagline: APD
-    subTagline: An adaptation of the gorgeous Fresh landing page starter from CSS Ninja
-    buttonText: More info
+    subTagline: Vem conhecer o nosso novo website.
+    buttonText: Mais info
     image: illustrations/worker.svg
     bottomIcons:
     - logos/clients/systek.svg
@@ -16,24 +16,24 @@ params:
     - logos/clients/infinite.svg
     - logos/clients/gutwork.svg
   navbar:
-    buttonText: Sign up
+    buttonText: FATT 2019
     logo:
       src: logos/fresh.svg
       alt: Main navbar logo
     links:
-    - text: Features
+    - text: Eventos
       url: /
-    - text: Pricing
+    - text: Sobre Nós
       url: /
-    - text: Dropdown
+    - text: Sobre Didgeridoo
       dropdown: true
       links:
-      - Dropdown item 1
-      - Dropdown item 2
-      - Dropdown item 3
+      - A sua origem ?
+      - Como tocar ?
+      - Como é construido ?
   features:
-    tagline: Great power comes with great Responsibility
-    subTagline: Lorem ipsum sit dolor amet is a dummy text used by typography industry
+    tagline: Vêm conhecer o Festival Didgeridoo - FATT
+    subTagline: Mais que um festival... uma filosofia de vida!
     panels:
     - title: Online App builder
       image: illustrations/icons/mouse-globe.svg
@@ -57,15 +57,15 @@ params:
         url: /
       delay: 3
   sellingPoints:
-    tagline: You're here because you want the best
+    tagline: Alguns eventos relacionados com o Didgeridoo
     points:
-    - title: Powerful and unified interface
+    - title: Evento 1
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
       icon: laptop-globe
-    - title: Cross device Synchronisation
+    - title: Evento 2
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
       icon: doc-sync
-    - title: Nomad System
+    - title: Evento 3
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
       icon: mobile-feed
   platform:

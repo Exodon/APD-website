@@ -1,12 +1,12 @@
 name = "APD"
 license = "MIT"
-licenselink = "https://github.com/lucperkins/hugo-fresh/blob/master/LICENSE.md"
+licenselink = "https://github.com/exodon/APD-website"
 description = ""
-homepage = "https://github.com/lucperkins/hugo-fresh"
+homepage = "https://github.com/exodon/APD-website"
 tags = ["responsive", "one page", "light", "onepage", "company", "clean", "landing page"]
 features = []
-min_version = "0.38"
+min_version = "0.1"
 
 [author]
-  name = "Luc Perkins"
-  homepage = "https://github.com/lucperkins"
+  name = "Ricardo Branco"
+  homepage = "https://github.com/exodon"
